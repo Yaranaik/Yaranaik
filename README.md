@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yaranaik
-- 👀 I’m interested in learning Phyton and Javascript 
+- 👀 I’m interested in learning Python and Javascript 
 - 🌱 I’m currently learning Phyton and Javascript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
