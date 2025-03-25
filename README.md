@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Yaranaik
-- 👀 I’m interested in learning Python and Javascript 
-- 🌱 I’m currently learning Phyton and Javascript 
+- 👋 Hi, I’m @Yara 
+- 👀 I’m interested in learning Python and C# 
+- 🌱 I’m currently learning Phyton and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
